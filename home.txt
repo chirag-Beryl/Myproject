@@ -1,1 +1,2 @@
 this is a homepage
+add the functionaity in homepage page
