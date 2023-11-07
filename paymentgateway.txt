@@ -1,4 +1,4 @@
 this is paymentgateway file 
-method1
-method2
-method3
+changemethod1
+changemethod2
+changemethod3
