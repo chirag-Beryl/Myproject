@@ -3,3 +3,4 @@ Now i want to add the methods
 method 1
 method 2
 method 3
+method 4
