@@ -1,1 +1,3 @@
 this is paymentgateway file 
+Now i want to add the methods 
+method 1
