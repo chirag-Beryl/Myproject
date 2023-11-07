@@ -1,1 +1,2 @@
 this is a logoutpage
+add the functionaity in logout page
