@@ -1,4 +1,7 @@
 this is paymentgateway file 
-modifymethod1
-m-method2
-m-method3
+
+Now i want to add the methods 
+method 1
+method 2
+method 3
+method 4
